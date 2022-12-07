@@ -36,5 +36,4 @@ Least revenue is getting generated from the same day delivery, which is conditio
 
 And so on...
 
-
-After completing the analysis of data, next step in the project is to predict the future of the trend in the data.
+After completing the analysis of data, next step in the project is to predict the future of the trend in the data. Here we don't have any dependent feature in the datset but the dates. So, considering this we are going to find trends and seasonality in the data using Prophet library.
