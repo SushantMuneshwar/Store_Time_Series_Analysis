@@ -22,7 +22,7 @@ There is no need to plot this graph as there are almost 94 products whose count 
 
 Q3. Which is the Preferred shipment mode ?
 
-Derived the sales wrt shipping categories using groupby () function. We got to know that the highest sales revenue coming from the customers who are using standard class as their preferred shipment mode.
+Derived the sales wrt shipping categories using 'groupby()' function. We got to know that the highest sales revenue coming from the customers who are using standard class as their preferred shipment mode.
 
 We’ve plotted the graph showing the same results using matplotlib library
 The results for the revenue generated from the Shipment model:
