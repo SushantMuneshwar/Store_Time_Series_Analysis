@@ -35,3 +35,6 @@ The results for the revenue generated from the Shipment model:
 Least revenue is getting generated from the same day delivery, which is conditional or situational sometimes so, business can’t do anything about it. One thing business can do is focus on improving the standard class delivery. Lots of customers are preferring standard class delivery, compromising with this mode can hamper the customer satisfaction.
 
 And so on...
+
+
+After completing the analysis of data, next step in the project is to predict the future of the trend in the data.
