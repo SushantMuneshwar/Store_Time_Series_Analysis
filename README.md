@@ -27,10 +27,10 @@ Derived the sales wrt shipping categories using 'groupby()' function. We got to 
 We’ve plotted the graph showing the same results using matplotlib library
 The results for the revenue generated from the Shipment model:
 
-•	Standard Class: 1.3 Mill
-•	Second class: 449k
-•	First Class: 345k
-•	Same Day: 125k
+-	Standard Class: 1.3 Mill
+-	Second class: 449k
+-	First Class: 345k
+-	Same Day: 125k
 
 Least revenue is getting generated from the same day delivery, which is conditional or situational sometimes so, business can’t do anything about it. One thing business can do is focus on improving the standard class delivery. Lots of customers are preferring standard class delivery, compromising with this mode can hamper the customer satisfaction.
 
