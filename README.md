@@ -39,3 +39,15 @@ And so on...
 After completing the analysis of data, next step in the project is to predict the future of the trend in the data. Here we don't have any dependent feature in the datset but the dates. So, considering this we are going to find trends and seasonality in the data using Prophet library.
 
 The Prophet library is an open-source library designed for making forecasts for univariate time series datasets. It is easy to use and designed to automatically find a good set of hyperparameters for the model in an effort to make skillful forecasts for data with trends and seasonal structure by default. It is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects. It works best with time series that have strong seasonal effects and several seasons of historical data. Prophet is robust to missing data and shifts in the trend, and typically handles outliers well.
+
+- So, Prophet is the facebooks’ open source tool for making time series predictions.
+
+- Prophet decomposes time series data into trend, seasonality and holiday effect.
+
+- Trend models non periodic changes in the time series data.
+
+- Seasonality is caused due to the periodic changes like daily, weekly, or yearly seasonality.
+
+- Holiday effect which occur on irregular schedules over a day or a period of days.
+
+- Error terms is what is not explained by the model.
