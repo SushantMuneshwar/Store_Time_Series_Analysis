@@ -53,3 +53,4 @@ The Prophet library is an open-source library designed for making forecasts for 
 - Error terms is what is not explained by the model.
 
 Prophet is an additive regression model with a piecewise linear or logistic growth curve trend. It includes a yearly seasonal component modeled using Fourier series and a weekly seasonal component modeled using dummy variables.
+Amazon Forecast uses the default Prophet hyperparameters. Prophet also supports related time-series as features, provided to Amazon Forecast in the related time-series CSV file.
