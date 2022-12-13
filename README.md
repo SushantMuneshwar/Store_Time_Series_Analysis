@@ -58,3 +58,5 @@ The Prophet library is an open-source library designed for making forecasts for 
 
 Prophet is an additive regression model with a piecewise linear or logistic growth curve trend. It includes a yearly seasonal component modeled using Fourier series and a weekly seasonal component modeled using dummy variables.
 Amazon Forecast uses the default Prophet hyperparameters. Prophet also supports related time-series as features, provided to Amazon Forecast in the related time-series CSV file.
+
+After reading in data and cleaning using pandas, you are almost ready to use Facebook Prophet. However, Facebook Prophet requires that the dates of your time series are located in a column titled ds and the values of the series in a column titled y. Note that if you are using logistic growth you’ll also need to add additional cap and floor columns with the maximum and minimum values of the possible growth at each specific time entry in the time series.
