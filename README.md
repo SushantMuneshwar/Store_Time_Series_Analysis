@@ -51,3 +51,5 @@ The Prophet library is an open-source library designed for making forecasts for 
 - Holiday effect which occur on irregular schedules over a day or a period of days.
 
 - Error terms is what is not explained by the model.
+
+Prophet is an additive regression model with a piecewise linear or logistic growth curve trend. It includes a yearly seasonal component modeled using Fourier series and a weekly seasonal component modeled using dummy variables.
