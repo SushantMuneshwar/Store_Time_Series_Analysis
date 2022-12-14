@@ -66,3 +66,4 @@ Facebook Prophet operates similarly to scikit-learn, so first we instantiate the
 To install Prophet library -> !pip install prophet
 
 we can plot the graphs using Prophet's inbuilt library named (plot_plotly)
+using "Fore_plot = m.plot(forecast, xlabel='year', ylabel='Daily Sales')" we can see the daily sales throughtout the year and the prediction for the next 365 days with its upper bound and lower bound.
