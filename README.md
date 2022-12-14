@@ -65,3 +65,4 @@ Facebook Prophet operates similarly to scikit-learn, so first we instantiate the
 
 To install Prophet library -> !pip install prophet
 
+we can plot the graphs using Prophet's inbuilt library named (plot_plotly)
