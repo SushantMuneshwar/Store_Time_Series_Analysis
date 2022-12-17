@@ -36,9 +36,9 @@ Least revenue is getting generated from the same day delivery, which is conditio
 
 And so on...
 
-After completing the analysis of data, next step in the project is to predict the future of the trend in the data. Here we don't have any dependent feature in the datset but the dates. So, considering this we are going to find trends and seasonality in the data using Prophet library.
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+After completing the analysis of data, next step in the project is to predict the future of the trend in the data. Here we don't have any dependent feature in the datset but the dates. So, considering this we are going to find trends and seasonality in the data using Prophet library.
 
 Time series data can be difficult and frustrating to work with, and the various algorithms that generate models can be quite finicky and hard to tune. This is particularly true if you are working with data that has multiple seasonalities. In addition, traditional time series models like SARIMAX have many stringent data requirements like stationarity and equally spaced values. Other time series models like Recurring Neural Networks with Long-Short Term Memory (RNN-LSTM) can be highly complex and difficult to work with if you don’t have a significant level of understanding about neural network architecture. So for the average data analyst, there is a high barrier of entry to time series analysis. So in 2017, a few researchers at Facebook published a paper called, “Forecasting at Scale” which introduced the open-source project Facebook Prophet, giving quick, powerful, and accessible time-series modeling to data analysts and data scientists everywhere.
 
